@@ -1,0 +1,39 @@
+.paper {
+    /* top: 50%; */
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    margin: 100px auto;
+    width: 500px;
+    height: 400px;
+    position: 'absolute';
+    width: 400;
+    background-color: white;
+    box-shadow: #888888;
+    padding: 40px 40px;
+}
+
+.form {
+    display: flex;
+    margin: 10px auto;
+    flex-direction: column;
+}
+
+.header {
+    margin: 0 0 10px 0;
+}
+
+.title {
+    /* height: 20px; */
+    /* padding: 3px; */
+    margin-bottom: 10px;
+}
+
+.textarea {
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    margin-top: 10px
+}
